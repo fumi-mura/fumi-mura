@@ -1,16 +1,22 @@
-## Hi there 👋
+## 基本情報
 
-<!--
-**fumi-mura/fumi-mura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## スキル
+### 言語
+### フレームワーク
+### クラウド
+#### AWS
+#### Google Cloud
 
-Here are some ideas to get you started:
+### ツール
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 業務経歴
+### 2024/07 ~ 現在
+### 2023/11 ~ 2024/03
+### 2022/10 ~ 2023/09
+### 2020/11 ~ 2022/09
+### 2020/05 ~ 2020/10
+
+## SNS
+- Twitter
+- Qiita
+- Zenn
