@@ -16,6 +16,10 @@
 ### 2020/11 ~ 2022/09
 ### 2020/05 ~ 2020/10
 
+<details><summary>詳細はこちら</summary>
+todo 詳細書く
+</details>
+
 ## SNS
 - Twitter
 - Qiita
