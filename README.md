@@ -19,8 +19,3 @@
 <details><summary>詳細はこちら</summary>
 todo 詳細書く
 </details>
-
-## SNS
-- Twitter
-- Qiita
-- Zenn
